@@ -1,2 +1,2 @@
-# PlantsApp-UI-Design
+# PlantsApp UI Design
 A simple Plants App UI made with SwiftUI
